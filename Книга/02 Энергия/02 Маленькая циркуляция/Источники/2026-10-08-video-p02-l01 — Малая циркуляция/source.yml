@@ -1,0 +1,16 @@
+id: 2026-10-08-video-p02-l01
+type: video
+recorded_at: 2026-10-08
+title: "Малая циркуляция"
+course_part: "Энергия"
+course_folder: "02 Энергия/01 Малая циркуляция"
+chapters:
+  - p2-c2
+local_media:
+  original_video: "2026-10-08-Вторая часть. Маленькая Циркуляци.mp4"
+  preview_video: "2026-10-08-Вторая часть. Маленькая Циркуляци.preview.mp4"
+  audio: "2026-10-08-Вторая часть. Маленькая Циркуляци.audio.mp3"
+texts:
+  transcript: transcript.txt
+  summary: summary.txt
+  retelling: retelling.txt

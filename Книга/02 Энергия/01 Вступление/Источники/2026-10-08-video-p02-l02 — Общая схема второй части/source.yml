@@ -1,0 +1,16 @@
+id: 2026-10-08-video-p02-l02
+type: video
+recorded_at: 2026-10-08
+title: "Общая схема второй части"
+course_part: "Энергия"
+course_folder: "02 Энергия/02 Общая схема второй части"
+chapters:
+  - p2-c1
+local_media:
+  original_video: "2026-10-08-Общая схема 2 части курса.mp4"
+  preview_video: "2026-10-08-Общая схема 2 части курса.preview.mp4"
+  audio: "2026-10-08-Общая схема 2 части курса.audio.mp3"
+texts:
+  transcript: transcript.txt
+  summary: summary.txt
+  retelling: retelling.txt

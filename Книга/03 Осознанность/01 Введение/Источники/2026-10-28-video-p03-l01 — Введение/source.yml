@@ -1,0 +1,16 @@
+id: 2026-10-28-video-p03-l01
+type: video
+recorded_at: 2026-10-28
+title: "Введение"
+course_part: "Осознанность"
+course_folder: "03 Осознанность/01 Введение"
+chapters:
+  - p3-c1
+local_media:
+  original_video: "2026-10-28-1. Третья часть. Введение.mp4"
+  preview_video: "2026-10-28-1. Третья часть. Введение.preview.mp4"
+  audio: "2026-10-28-1. Третья часть. Введение.audio.mp3"
+texts:
+  transcript: transcript.txt
+  summary: summary.txt
+  retelling: retelling.txt

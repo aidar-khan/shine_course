@@ -1,0 +1,16 @@
+id: 2026-09-24-video-p01-l01
+type: video
+recorded_at: 2026-09-24
+title: "Почему первая часть самая сложная"
+course_part: "Состояние"
+course_folder: "01 Состояние (медитации)/01 Почему первая часть самая сложная"
+chapters:
+  - p1-c1
+local_media:
+  original_video: "2026-09-24-Сияние. ч.1. 1. Почем первая часть самая сложная.mp4"
+  preview_video: "2026-09-24-Сияние. ч.1. 1. Почем первая часть самая сложная.preview.mp4"
+  audio: "2026-09-24-Сияние. ч.1. 1. Почем первая часть самая сложная.audio.mp3"
+texts:
+  transcript: transcript.txt
+  summary: summary.txt
+  retelling: retelling.txt

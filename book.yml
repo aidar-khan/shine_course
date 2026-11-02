@@ -1,0 +1,57 @@
+title: "Shine"
+parts:
+  - id: p1
+    title: "Состояние"
+    chapters:
+      - id: p1-c1
+        title: "Введение"
+      - id: p1-c2
+        title: "Медитация 1: движения"
+      - id: p1-c3
+        title: "Медитация 2: дыхание"
+      - id: p1-c4
+        title: "Медитация 3: наблюдение"
+      - id: p1-c5
+        title: "Медитация 4: энергия"
+      - id: p1-c6
+        title: "Медитация 5: лотос (любовь)"
+  - id: p2
+    title: "Энергия"
+    chapters:
+      - id: p2-c1
+        title: "Вступление"
+      - id: p2-c2
+        title: "Маленькая циркуляция"
+      - id: p2-c3
+        title: "Семь чакр"
+      - id: p2-c4
+        title: "Большая циркуляция"
+      - id: p2-c5
+        title: "Костный мозг"
+      - id: p2-c6
+        title: "Тантра"
+      - id: p2-c7
+        title: "Просветление"
+  - id: p3
+    title: "Осознанность"
+    chapters:
+      - id: p3-c1
+        title: "Введение"
+      - id: p3-c2
+        title: "Что такое осознанность. Практики"
+      - id: p3-c3
+        title: "Нейросеть и осознанность"
+      - id: p3-c4
+        title: "Семь чакр"
+      - id: p3-c5
+        title: "Опасность и счастье"
+      - id: p3-c6
+        title: "Просветление"
+      - id: p3-c7
+        title: "Бонус (возможно, убрать)"
+  - id: p4
+    title: "Мышление"
+    chapters: []
+  - id: p5
+    title: "Стратегии"
+    chapters: []

@@ -1,0 +1,16 @@
+id: 2026-09-24-video-p01-l02
+type: video
+recorded_at: 2026-09-24
+title: "Что входит в первую часть"
+course_part: "Состояние"
+course_folder: "01 Состояние (медитации)/02 Что входит в первую часть"
+chapters:
+  - p1-c1
+local_media:
+  original_video: "2026-09-24-Сияние. ч.1. 2. Что входит в первую часть.mp4"
+  preview_video: "2026-09-24-Сияние. ч.1. 2. Что входит в первую часть.preview.mp4"
+  audio: "2026-09-24-Сияние. ч.1. 2. Что входит в первую часть.audio.mp3"
+texts:
+  transcript: transcript.txt
+  summary: summary.txt
+  retelling: retelling.txt
